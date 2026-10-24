@@ -85,3 +85,18 @@ The application provides a Streamlit dashboard for reviewing simulated security 
 ## Disclaimer
 
 This project is intended for educational and portfolio demonstration purposes. Validate all AI-generated findings against reliable security evidence before taking action.
+
+
+
+## Project Screenshots
+
+### 1. Dashboard Overview
+![SOC Alert Dashboard](01_dashboard_overview.png)
+
+### 2. Authentication Log Detection
+![Log Detection Evidence](02_log_detection_evidence.png)
+
+### 3. Investigation Notes
+![Investigation Notes](03_investigation_notes.png)
+
+
